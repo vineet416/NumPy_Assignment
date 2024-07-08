@@ -1,4 +1,4 @@
-# NumPy_Assignment
+# NumPy_Assignment Questions
 PW Skills Data Analytics Course NumPy Assignment.
 
 1. Create a NumPy array 'arr' of integers from 0 to 5 and print its data type.
